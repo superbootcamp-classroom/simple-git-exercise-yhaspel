@@ -8,7 +8,7 @@
 3. `git add` it, `git commit` your work, and `git push` it.
 
 ##Step 4
-1. Login in to [Hackita02 website](https://hackita02.hasadna.org.il/sa/) and send us your github repo link using the "add comment" form.
+1. Login in to [10x.org.il](https://www.10x.org.il/sa/) and send us your github repo link using the "add comment" form.
 
 
 
