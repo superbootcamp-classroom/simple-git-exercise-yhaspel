@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: Sushi
+I like to hear: Anything good, especially Jazz
+My hobbies are: dog traning, programming, reading, and the ususal like music and movies.
 
-I would like to travel to <XXXX>.
+I would like to travel to India.
 
-"<XXXX Your favorite quote goes here>".
+"Pride is an abomination. One must forego the self to obtain total spiritual creaminess, and avoid the chewy chunks of degradation." - Ace Ventura
